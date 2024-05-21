@@ -32,5 +32,13 @@ Tensorflow – This is an open-source library that is used for Machine Learning 
  
  Input:
  ![image](https://github.com/Prasannnnn/Machine-Learning-Projects/assets/122286297/5d59d0bd-2953-46eb-b51f-11dcd3dfc639) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Output of the image:
  ![image](https://github.com/Prasannnnn/Machine-Learning-Projects/assets/122286297/ed50da49-f3a6-4586-b69d-918076adb0eb)
