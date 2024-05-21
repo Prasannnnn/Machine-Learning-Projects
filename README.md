@@ -15,3 +15,7 @@ Matplotlib – This library is used to draw visualizations.
 Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.
 OpenCV – This is an open-source library mainly focused on image processing and handling.
 Tensorflow – This is an open-source library that is used for Machine Learning and Artificial intelligence and provides a range of functions to achieve complex functionalities with single lines of code.
+ Input:
+ ![image](https://github.com/Prasannnnn/Machine-Learning-Projects/assets/122286297/5d59d0bd-2953-46eb-b51f-11dcd3dfc639) 
+ Output of the image:
+ ![image](https://github.com/Prasannnnn/Machine-Learning-Projects/assets/122286297/ed50da49-f3a6-4586-b69d-918076adb0eb)
