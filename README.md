@@ -49,3 +49,4 @@ train_datagen = ImageDataGenerator(rescale=1. / 255, shear_range=0.2, zoom_range
 test_datagen = ImageDataGenerator(rescale=1. / 255, validation_split=0.2)
 Conclusion:
 The algorithms used in this flower recognition task primarily involve convolutional neural networks for model development, data augmentation techniques to enhance the training process, and specific functions and methods from TensorFlow and Keras for model training, evaluation, and prediction. This approach demonstrates a practical implementation of CNNs for supervised image classification problems.
+dataset 🖇️:https://drive.google.com/drive/folders/1S5zhOxlftyRwWtnJBjT3ZR6RYnjRpMLs
